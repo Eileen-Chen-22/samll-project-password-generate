@@ -1,1 +1,1 @@
-# samll-project-password-generate
+# small-project-password-generate
